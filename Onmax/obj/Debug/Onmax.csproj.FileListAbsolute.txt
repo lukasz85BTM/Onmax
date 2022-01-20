@@ -1,0 +1,17 @@
+C:\Users\Łukasz\Documents\Projekt C\Onmax\Onmax\bin\Debug\Onmax.exe
+C:\Users\Łukasz\Documents\Projekt C\Onmax\Onmax\bin\Debug\Onmax.pdb
+C:\Users\Łukasz\Documents\Projekt C\Onmax\Onmax\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Łukasz\Documents\Projekt C\Onmax\Onmax\bin\Debug\Guna.UI2.dll
+C:\Users\Łukasz\Documents\Projekt C\Onmax\Onmax\bin\Debug\WindowsFormsAero.dll
+C:\Users\Łukasz\Documents\Projekt C\Onmax\Onmax\bin\Debug\WinFormAnimation.dll
+C:\Users\Łukasz\Documents\Projekt C\Onmax\Onmax\bin\Debug\WindowsFormsAero.pdb
+C:\Users\Łukasz\Documents\Projekt C\Onmax\Onmax\bin\Debug\WindowsFormsAero.xml
+C:\Users\Łukasz\Documents\Projekt C\Onmax\Onmax\obj\Debug\Onmax.AboutBox1.resources
+C:\Users\Łukasz\Documents\Projekt C\Onmax\Onmax\obj\Debug\Onmax.Onmax.resources
+C:\Users\Łukasz\Documents\Projekt C\Onmax\Onmax\obj\Debug\Onmax.Properties.Resources.resources
+C:\Users\Łukasz\Documents\Projekt C\Onmax\Onmax\obj\Debug\Onmax.csproj.GenerateResource.cache
+C:\Users\Łukasz\Documents\Projekt C\Onmax\Onmax\obj\Debug\Onmax.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz\Documents\Projekt C\Onmax\Onmax\obj\Debug\Onmax.csproj.CopyComplete
+C:\Users\Łukasz\Documents\Projekt C\Onmax\Onmax\obj\Debug\Onmax.exe
+C:\Users\Łukasz\Documents\Projekt C\Onmax\Onmax\obj\Debug\Onmax.pdb
+C:\Users\Łukasz\Documents\Projekt C\Onmax\Onmax\obj\Debug\Onmax.csprojAssemblyReference.cache

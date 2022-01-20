@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Onmax", "Onmax\Onmax.csproj", "{7553D0A0-8723-42AB-8192-DB60F1C83834}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7553D0A0-8723-42AB-8192-DB60F1C83834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7553D0A0-8723-42AB-8192-DB60F1C83834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7553D0A0-8723-42AB-8192-DB60F1C83834}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{7553D0A0-8723-42AB-8192-DB60F1C83834}.Debug|Default.Build.0 = Debug|Any CPU
+		{7553D0A0-8723-42AB-8192-DB60F1C83834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7553D0A0-8723-42AB-8192-DB60F1C83834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7553D0A0-8723-42AB-8192-DB60F1C83834}.Release|Default.ActiveCfg = Release|Any CPU
+		{7553D0A0-8723-42AB-8192-DB60F1C83834}.Release|Default.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B37FF7C-FA56-460C-B1D8-70B6F1B01946}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+EndGlobal
